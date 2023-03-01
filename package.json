@@ -1,0 +1,20 @@
+{
+  "name": "hex-encryption",
+  "version": "1.0.0",
+  "description": "Hex encryption to encode &amp; decode string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixover/hex-encryption.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixover/hex-encryption/issues"
+  },
+  "homepage": "https://github.com/ixover/hex-encryption#readme"
+}
